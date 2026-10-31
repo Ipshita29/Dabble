@@ -3,7 +3,7 @@ import { flushSync } from "react-dom";
 import { useLocation, useNavigate } from "react-router-dom";
 import { animate, motion, useMotionValue, useReducedMotion, useScroll, useTransform } from "framer-motion";
 
-const API = import.meta.env.VITE_API_URL || "http://localhost:5000";
+const API = "https://server-eta-seven-89.vercel.app";
 const EASE = [0.62, 0, 0.12, 1.012];
 const ABOUT_TEXT = "You don’t need a reason to try something new. You don’t need to be good at it. Just be curious.";
 
