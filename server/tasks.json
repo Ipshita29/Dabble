@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "task": "Paint a small design on a canvas tote bag."
+  },
+  {
+    "id": 2,
+    "task": "Learn the crochet chain stitch and make a short bookmark."
+  },
+  {
+    "id": 3,
+    "task": "Embroider a tiny flower on the corner of a T-shirt."
+  },
+  {
+    "id": 4,
+    "task": "Sculpt a pair of mini clay earrings with air-dry clay."
+  },
+  {
+    "id": 5,
+    "task": "Turn an empty glass jar into a painted candle holder."
+  },
+  {
+    "id": 6,
+    "task": "Make a beaded phone charm."
+  },
+  {
+    "id": 7,
+    "task": "Sketch your favourite mug from three different angles."
+  },
+  {
+    "id": 8,
+    "task": "Paint a sunset using only three colours."
+  },
+  {
+    "id": 9,
+    "task": "Fold an origami crane, then try a fox."
+  },
+  {
+    "id": 10,
+    "task": "Make a collage from old magazines around a single colour."
+  },
+  {
+    "id": 11,
+    "task": "Create a set of hand-drawn stickers on paper and tape."
+  },
+  {
+    "id": 12,
+    "task": "Draw a self-portrait without looking at the paper."
+  },
+  {
+    "id": 13,
+    "task": "Design and carve a simple potato stamp, then print a pattern."
+  },
+  {
+    "id": 14,
+    "task": "Make a friendship bracelet using a basic knot pattern."
+  },
+  {
+    "id": 15,
+    "task": "Customise an old pair of jeans with paint or patches."
+  },
+  {
+    "id": 16,
+    "task": "Upcycle a cardboard box into a desk organiser."
+  },
+  {
+    "id": 17,
+    "task": "Make a miniature room inside a shoebox."
+  },
+  {
+    "id": 18,
+    "task": "Press flowers or leaves between book pages and arrange them on a card."
+  },
+  {
+    "id": 19,
+    "task": "Hand-letter your favourite word in three different styles."
+  },
+  {
+    "id": 20,
+    "task": "Make a zine about something you love using one folded sheet of paper."
+  },
+  {
+    "id": 21,
+    "task": "Design a tiny watercolour postcard and write it to a friend."
+  },
+  {
+    "id": 22,
+    "task": "Create a mosaic on cardboard using cut-up paper scraps."
+  },
+  {
+    "id": 23,
+    "task": "Build a small paper lantern."
+  },
+  {
+    "id": 24,
+    "task": "Create three outfits using only five pieces from your wardrobe."
+  },
+  {
+    "id": 25,
+    "task": "Style one piece of clothing in four different ways."
+  },
+  {
+    "id": 26,
+    "task": "Put together an outfit inspired by a film you love."
+  },
+  {
+    "id": 27,
+    "task": "Try a simple two-colour nail art design."
+  },
+  {
+    "id": 28,
+    "task": "Recreate a makeup look from a decade you find interesting."
+  },
+  {
+    "id": 29,
+    "task": "Make a scrunchie from an old shirt."
+  },
+  {
+    "id": 30,
+    "task": "Decorate a plain hair clip with beads or charms."
+  },
+  {
+    "id": 31,
+    "task": "Style an outfit around one accessory you rarely wear."
+  },
+  {
+    "id": 32,
+    "task": "Try a new hairstyle using a tutorial for braids."
+  },
+  {
+    "id": 33,
+    "task": "Create a capsule wardrobe moodboard for the next season."
+  },
+  {
+    "id": 34,
+    "task": "Paint a small design on an old pair of sneakers."
+  },
+  {
+    "id": 35,
+    "task": "Bake a batch of cookies from scratch."
+  },
+  {
+    "id": 36,
+    "task": "Make a mug cake in the microwave."
+  },
+  {
+    "id": 37,
+    "task": "Recreate a street food dish from another country."
+  },
+  {
+    "id": 38,
+    "task": "Make homemade lemonade with a twist like mint or ginger."
+  },
+  {
+    "id": 39,
+    "task": "Plate a simple meal as if it were from a fancy restaurant."
+  },
+  {
+    "id": 40,
+    "task": "Make a fruit platter shaped into a pattern or picture."
+  },
+  {
+    "id": 41,
+    "task": "Try making a whipped coffee or whipped hot chocolate."
+  },
+  {
+    "id": 42,
+    "task": "Make homemade popcorn with three different seasonings."
+  },
+  {
+    "id": 43,
+    "task": "Bake banana bread using overripe bananas."
+  },
+  {
+    "id": 44,
+    "task": "Make a no-bake dessert in a glass."
+  },
+  {
+    "id": 45,
+    "task": "Try a cuisine you have never cooked before with one simple recipe."
+  },
+  {
+    "id": 46,
+    "task": "Make a colourful smoothie bowl and decorate the top."
+  },
+  {
+    "id": 47,
+    "task": "Brew a cup of tea and try a flavour you have never had."
+  },
+  {
+    "id": 48,
+    "task": "Make fresh spring rolls with whatever vegetables you have."
+  },
+  {
+    "id": 49,
+    "task": "Create a digital moodboard for your dream apartment."
+  },
+  {
+    "id": 50,
+    "task": "Design a magazine cover featuring yourself."
+  },
+  {
+    "id": 51,
+    "task": "Create a playlist around a particular mood."
+  },
+  {
+    "id": 52,
+    "task": "Edit one photo in three completely different styles."
+  },
+  {
+    "id": 53,
+    "task": "Turn a few of your own photos into a short looping GIF."
+  },
+  {
+    "id": 54,
+    "task": "Design a simple personal website homepage using a free builder."
+  },
+  {
+    "id": 55,
+    "task": "Create a custom phone wallpaper."
+  },
+  {
+    "id": 56,
+    "task": "Make a short stop-motion video with objects from your desk."
+  },
+  {
+    "id": 57,
+    "task": "Design a logo for an imaginary brand."
+  },
+  {
+    "id": 58,
+    "task": "Design cover art for one of your playlists."
+  },
+  {
+    "id": 59,
+    "task": "Make a one-minute video diary of your day."
+  },
+  {
+    "id": 60,
+    "task": "Design a poster for your favourite album."
+  },
+  {
+    "id": 61,
+    "task": "Create a pixel art version of your pet or favourite object."
+  },
+  {
+    "id": 62,
+    "task": "Make a photo dump of ten moments from the past month."
+  },
+  {
+    "id": 63,
+    "task": "Start a scrapbook page about a recent memory."
+  },
+  {
+    "id": 64,
+    "task": "Write a letter to yourself to open in one year."
+  },
+  {
+    "id": 65,
+    "task": "Listen to a full album from a genre you never explore."
+  },
+  {
+    "id": 66,
+    "task": "Learn five words in a language you find interesting."
+  },
+  {
+    "id": 67,
+    "task": "Watch a documentary on a topic you know nothing about and note three facts."
+  },
+  {
+    "id": 68,
+    "task": "Arrange a small collection of yours into a display."
+  },
+  {
+    "id": 69,
+    "task": "Draw a tiny comic strip about something funny that happened this week."
+  },
+  {
+    "id": 70,
+    "task": "Learn three simple card tricks."
+  },
+  {
+    "id": 71,
+    "task": "Write a short poem about the view from your window."
+  },
+  {
+    "id": 72,
+    "task": "Make a map of your favourite places in your town."
+  },
+  {
+    "id": 73,
+    "task": "Learn the basics of reading a tarot card spread for fun."
+  },
+  {
+    "id": 74,
+    "task": "Learn a short beginner dance routine from a tutorial."
+  },
+  {
+    "id": 75,
+    "task": "Try a 20-minute beginner Pilates session."
+  },
+  {
+    "id": 76,
+    "task": "Learn to do a proper plank and a side plank."
+  },
+  {
+    "id": 77,
+    "task": "Try a beginner yoga flow for flexibility."
+  },
+  {
+    "id": 78,
+    "task": "Learn the basic footwork of salsa."
+  },
+  {
+    "id": 79,
+    "task": "Learn to skip rope with a few basic tricks."
+  },
+  {
+    "id": 80,
+    "task": "Follow a stretching routine for your back and shoulders."
+  },
+  {
+    "id": 81,
+    "task": "Learn a basic hula hoop move."
+  },
+  {
+    "id": 82,
+    "task": "Learn a few steps of K-pop choreography."
+  },
+  {
+    "id": 83,
+    "task": "Go on a photography walk and capture five interesting textures."
+  },
+  {
+    "id": 84,
+    "task": "Visit a part of your neighbourhood you have never explored."
+  },
+  {
+    "id": 85,
+    "task": "Have a picnic with homemade snacks in a nearby park."
+  },
+  {
+    "id": 86,
+    "task": "Host a mini paint night with friends."
+  },
+  {
+    "id": 87,
+    "task": "Visit a local cafe you have never been to and sketch the space."
+  },
+  {
+    "id": 88,
+    "task": "Play a board game you have never tried with friends."
+  },
+  {
+    "id": 89,
+    "task": "Photograph your street from unusual angles."
+  },
+  {
+    "id": 90,
+    "task": "Go on a walk and collect interesting leaves to identify later."
+  },
+  {
+    "id": 91,
+    "task": "Visit a local bookstore and pick a book based only on its cover."
+  },
+  {
+    "id": 92,
+    "task": "Have a themed photoshoot with friends."
+  },
+  {
+    "id": 93,
+    "task": "Make a tiny terrarium in a jar."
+  },
+  {
+    "id": 94,
+    "task": "Paint a set of small rocks and hide them for others to find."
+  },
+  {
+    "id": 95,
+    "task": "Personalise your water bottle with paint pens."
+  },
+  {
+    "id": 96,
+    "task": "Make a miniature version of your favourite snack from clay."
+  },
+  {
+    "id": 97,
+    "task": "Weave a small wall hanging on a cardboard loom."
+  },
+  {
+    "id": 98,
+    "task": "Create a tiny book that fits in your palm."
+  },
+  {
+    "id": 99,
+    "task": "Build a fort from blankets and pillows and read inside it."
+  },
+  {
+    "id": 100,
+    "task": "Make bubble wands and try giant bubbles outside."
+  }
+]
