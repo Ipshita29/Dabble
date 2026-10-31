@@ -9,7 +9,9 @@ export default function Navbar() {
         </Link>
         <div className="nav-links">
           <Link to="/#about">About</Link>
-          <a href="mailto:hello@dabble.app">Contact</a>
+          <a href="https://github.com/Ipshita29/Dabble" target="_blank" rel="noreferrer">
+            GitHub
+          </a>
         </div>
       </nav>
     </header>

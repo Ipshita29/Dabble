@@ -38,11 +38,7 @@ export default function App() {
           <div className="footer-col">
             <h3>Dabble</h3>
             <Link to="/#about">About</Link>
-            <a href="mailto:hello@dabble.app">Contact</a>
-          </div>
-          <div className="footer-col">
-            <h3>Elsewhere</h3>
-            <a href="https://github.com" target="_blank" rel="noreferrer">
+            <a href="https://github.com/Ipshita29/Dabble" target="_blank" rel="noreferrer">
               GitHub
             </a>
           </div>
